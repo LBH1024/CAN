@@ -36,7 +36,7 @@ train_label_path: '/home/dataset/CROHME/train_labels.txt'
 eval_image_path1: '/home/dataset/CROHME/14_test_images.pkl'
 eval_label_path1: '/home/dataset/CROHME/14_test_labels.txt'
 
-word_path: '/home/dataset/CROHME/wap_words_dict.txt'
+word_path: '/home/dataset/CROHME/words_dict.txt'
 
 # collate_fn
 collate_fn: collate_fn
