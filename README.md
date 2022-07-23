@@ -2,7 +2,7 @@
 
 This is the official pytorch implementation of CAN (ECCV'2022). 
 
-> Bohan Li, Ye Yuan, Dingkang Liang, Xiao Liu, Zhilong Ji, Jinfeng Bai, Wenyu Liu, Xiang Bai 
+> Bohan Li,  Ye Yuan,  Dingkang Liang,  Xiao Liu,  Zhilong Ji,  Jinfeng Bai,  Wenyu Liu,  Xiang Bai 
 
 ## Abstract
 
