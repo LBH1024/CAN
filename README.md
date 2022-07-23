@@ -6,11 +6,11 @@ This is the official pytorch implementation of CAN (ECCV'2022).
 
 ## Pipeline
 
-<p align="left"><img src="assets/CAN.png" width="700"/></p>
+<p align="left"><img src="assets/CAN.png" width="600"/></p>
 
 ## Counting Module
 
-<p align="left"><img src="assets/MSCM.png" width="700"/></p>
+<p align="left"><img src="assets/MSCM.png" width="650"/></p>
 
 ## Abstract
 
