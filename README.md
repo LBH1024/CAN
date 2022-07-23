@@ -13,3 +13,9 @@ Check the config file ```config.py``` and train with the CROHME dataset:
 ```python train.py --dataset CROHME```
 
 ## Testing
+
+Fill the ```checkpoint``` in the config file ```config.py``` and test with the CROHME dataset:
+
+```python inference.py --dataset CROHME```
+
+Note that the testing dataset path is set in the ```inference.py```
