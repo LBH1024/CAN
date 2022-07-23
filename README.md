@@ -8,6 +8,10 @@ This is the official pytorch implementation of CAN (ECCV'2022).
 
 <p align="left"><img src="assets/CAN.png" width="700"/></p>
 
+## Counting Module
+
+<p align="left"><img src="assets/MSCM.png" width="700"/></p>
+
 ## Abstract
 
 <p align="justify">
