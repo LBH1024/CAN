@@ -1,4 +1,4 @@
-# When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition
+# CAN
 
 This is the official pytorch implementation of CAN (ECCV'2022). 
 
