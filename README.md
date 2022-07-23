@@ -14,7 +14,7 @@ Check the config file ```config.py``` and train with the CROHME dataset:
 
 ## Testing
 
-Fill the ```checkpoint``` in the config file ```config.py``` and test with the CROHME dataset:
+Fill the ```checkpoint``` (pretrained model path) in the config file ```config.py``` and test with the CROHME dataset:
 
 ```python inference.py --dataset CROHME```
 
