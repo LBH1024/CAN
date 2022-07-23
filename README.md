@@ -4,4 +4,4 @@ The official pytorch implementation of CAN (ECCV'2022).
 
 ## Pipeline
 
-![CAN Overview](assets/CAN.pdf)
+![CAN](./assets/CAN.pdf)
