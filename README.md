@@ -22,6 +22,8 @@ Recently, most handwritten mathematical expression recognition (HMER) methods ad
 
 Download the CROHME dataset from [BaiduYun](https://pan.baidu.com/s/1qUVQLZh5aPT6d7-m6il6Rg) (downloading code: 1234) and put it in ```datasets/```.
 
+The HME100K dataset can be download from the official website HME100K (https://ai.100tal.com/dataset).
+
 ## Training
 
 Check the config file ```config.py``` and train with the CROHME dataset:
