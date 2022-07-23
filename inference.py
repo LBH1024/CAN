@@ -14,9 +14,9 @@ from counting_utils import gen_counting_label
 
 parser = argparse.ArgumentParser(description='model testing')
 parser.add_argument('--dataset', default='CROHME', type=str, help='数据集名称')
-parser.add_argument('--image_path', default='/home/dataset/CROHME/14_test_images.pkl', type=str, help='测试image路径')
-parser.add_argument('--label_path', default='/home/dataset/CROHME/14_test_labels.txt', type=str, help='测试label路径')
-parser.add_argument('--word_path', default='/home/dataset/CROHME/wap_words_dict.txt', type=str, help='测试dict路径')
+parser.add_argument('--image_path', default='dataset/CROHME/14_test_images.pkl', type=str, help='测试image路径')
+parser.add_argument('--label_path', default='dataset/CROHME/14_test_labels.txt', type=str, help='测试label路径')
+parser.add_argument('--word_path', default='dataset/CROHME/words_dict.txt', type=str, help='测试dict路径')
 
 parser.add_argument('--draw_map', default=False)
 args = parser.parse_args()
