@@ -16,7 +16,7 @@ Recently, most handwritten mathematical expression recognition (HMER) methods ad
 
 ## Counting Module
 
-<p align="left"><img src="assets/MSCM.png" width="570"/></p>
+<p align="left"><img src="assets/MSCM.png" width="55"/></p>
 
 ## Datasets
 
