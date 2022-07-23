@@ -2,6 +2,10 @@
 
 This is the official pytorch implementation of CAN (ECCV'2022). 
 
+> **When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition**
+>
+> Bohan Li, Ye Yuan, Dingkang Liang, Xiao Liu, Zhilong Ji, Jinfeng Bai, Wenyu Liu, Xiang Bai 
+
 ## Abstract
 
 <p align="justify">
