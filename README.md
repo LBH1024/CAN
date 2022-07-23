@@ -8,7 +8,7 @@ Download the CROHME dataset from [BaiduYun](https://pan.baidu.com/s/1qUVQLZh5aPT
 
 ## Training
 
-Check the config file ```config.py```
+Check the config file ```config.py``` and train with the CROHME dataset:
 
 ```python train.py --dataset CROHME```
 
