@@ -12,11 +12,11 @@ Recently, most handwritten mathematical expression recognition (HMER) methods ad
 
 ## Pipeline
 
-<p align="left"><img src="assets/CAN.png" width="620"/></p>
+<p align="left"><img src="assets/CAN.png" width="580"/></p>
 
 ## Counting Module
 
-<p align="left"><img src="assets/MSCM.png" width="650"/></p>
+<p align="left"><img src="assets/MSCM.png" width="610"/></p>
 
 ## Datasets
 
