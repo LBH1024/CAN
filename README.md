@@ -14,18 +14,18 @@ Recently, most handwritten mathematical expression recognition (HMER) methods ad
 
 ## Datasets
 
-Download the CROHME dataset from [BaiduYun](https://pan.baidu.com/s/1qUVQLZh5aPT6d7-m6il6Rg) (downloading code: 1234) and put it in ```datasets/```
+Download the CROHME dataset from [BaiduYun](https://pan.baidu.com/s/1qUVQLZh5aPT6d7-m6il6Rg) (downloading code: 1234) and put it in ```datasets/```.
 
 ## Training
 
 Check the config file ```config.py``` and train with the CROHME dataset:
 
-```python train.py --dataset CROHME```
+```python train.py --dataset CROHME```.
 
 ## Testing
 
 Fill in the ```checkpoint``` (pretrained model path) in the config file ```config.py``` and test with the CROHME dataset:
 
-```python inference.py --dataset CROHME```
+```python inference.py --dataset CROHME```.
 
-Note that the testing dataset path is set in the ```inference.py```
+Note that the testing dataset path is set in the ```inference.py```.
