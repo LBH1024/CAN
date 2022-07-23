@@ -6,7 +6,7 @@ This is the official pytorch implementation of CAN (ECCV'2022).
 
 ## Pipeline
 
-<p align="left"><img src="https://github.com/LBH1024/CAN/blob/main/assets/img490.jpg" width="400"/></p>
+<p align="left"><img src="assets/CAN.png" width="400"/></p>
 
 ## Abstract
 
