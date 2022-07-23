@@ -30,13 +30,13 @@ gradient_clip: True
 use_label_mask: False
 
 # 训练数据
-train_image_path: '/home/dataset/CROHME/train_images.pkl'
-train_label_path: '/home/dataset/CROHME/train_labels.txt'
+train_image_path: 'dataset/CROHME/train_images.pkl'
+train_label_path: 'dataset/CROHME/train_labels.txt'
 
-eval_image_path1: '/home/dataset/CROHME/14_test_images.pkl'
-eval_label_path1: '/home/dataset/CROHME/14_test_labels.txt'
+eval_image_path1: 'dataset/CROHME/14_test_images.pkl'
+eval_label_path1: 'dataset/CROHME/14_test_labels.txt'
 
-word_path: '/home/dataset/CROHME/words_dict.txt'
+word_path: 'dataset/CROHME/words_dict.txt'
 
 # collate_fn
 collate_fn: collate_fn
@@ -66,8 +66,8 @@ attention:
   attention_dim: 512
   word_conv_kernel: 1
 
-attention_map_vis_path: '/home/code/CAN/vis/attention_map'
-counting_map_vis_path: '/home/code/CAN/vis/counting_map'
+attention_map_vis_path: 'vis/attention_map'
+counting_map_vis_path: 'vis/counting_map'
 
 whiten_type: None
 max_step: 256
