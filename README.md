@@ -28,12 +28,16 @@ The HME100K dataset can be download from the official website [HME100K](https://
 
 Check the config file ```config.py``` and train with the CROHME dataset:
 
-```python train.py --dataset CROHME```.
+```
+python train.py --dataset CROHME
+```
 
 ## Testing
 
 Fill in the ```checkpoint``` (pretrained model path) in the config file ```config.py``` and test with the CROHME dataset:
 
-```python inference.py --dataset CROHME```.
+```
+python inference.py --dataset CROHME
+```
 
 Note that the testing dataset path is set in the ```inference.py```.
