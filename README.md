@@ -26,7 +26,7 @@ The HME100K dataset can be download from the official website [HME100K](https://
 
 ## Training
 
-Check the config file ```config.py``` and train with the CROHME dataset:
+Check the config file ```config.yaml``` and train with the CROHME dataset:
 
 ```
 python train.py --dataset CROHME
@@ -36,7 +36,7 @@ By default the ```batch size``` is set to 8 and you may need to use a GPU with 3
 
 ## Testing
 
-Fill in the ```checkpoint``` (pretrained model path) in the config file ```config.py``` and test with the CROHME dataset:
+Fill in the ```checkpoint``` (pretrained model path) in the config file ```config.yaml``` and test with the CROHME dataset:
 
 ```
 python inference.py --dataset CROHME
