@@ -43,3 +43,14 @@ python inference.py --dataset CROHME
 ```
 
 Note that the testing dataset path is set in the ```inference.py```.
+
+## Citation
+
+```
+@inproceedings{CAN,
+  title={When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition},
+  author={Li, Bohan and Yuan, Ye and Liang, Dingkang and Liu, Xiao and Ji, Zhilong and Bai, Jinfeng and Liu, Wenyu and Bai, Xiang},
+  booktitle={ECCV},
+  year={2022},
+}
+```
