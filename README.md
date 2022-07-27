@@ -57,7 +57,7 @@ Note that the testing dataset path is set in the ```inference.py```.
 
 ## Recommendation
 
-Some other excellent open-sourced HMER methods can be found:
+Some other excellent open-sourced HMER algorithms can be found here:
 
 [WAP](https://github.com/JianshuZhang/WAP)[PR'2017]
 [DWAP-TD](https://github.com/JianshuZhang/TreeDecoder)[ICML'2020]
