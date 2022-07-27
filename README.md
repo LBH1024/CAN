@@ -54,3 +54,16 @@ Note that the testing dataset path is set in the ```inference.py```.
   year={2022}
 }
 ```
+
+## Recommendation
+
+Some other excellent open-sourced HMER methods can be found:
+
+[WAP](https://github.com/JianshuZhang/WAP)[PR'2017]
+[DWAP-TD](https://github.com/JianshuZhang/TreeDecoder)[ICML'2020]
+[BTTR](https://github.com/Green-Wood/BTTR)[ICDAR'2021]
+[ABM](https://github.com/XH-B/ABM)[AAAI'2022]
+[SAN](https://github.com/tal-tech/SAN)[CVPR'2022]
+[CoMER](https://github.com/Green-Wood/CoMER)[ECCV'2022]
+
+
