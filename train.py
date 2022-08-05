@@ -66,7 +66,7 @@ if not args.check:
 
 """在CROHME上训练"""
 if args.dataset == 'CROHME':
-    min_score1, init_epoch = 0, 0
+    min_score, init_epoch = 0, 0
 
     for epoch in range(init_epoch, params['epochs']):
         train_loss, train_word_score, train_exprate = train(params, model, optimizer, epoch, train_loader, writer=writer)
