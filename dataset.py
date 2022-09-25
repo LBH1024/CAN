@@ -5,7 +5,7 @@ from torch.utils.data import DataLoader, Dataset, RandomSampler
 
 
 class HMERDataset(Dataset):
-    def __init__(self, params, image_path, label_path, words, is_train=True, use_aug=False):
+    def __init__(self, params, image_path, label_path, words, is_train=True):
         super(HMERDataset, self).__init__()
         if image_path.endswith('.pkl'):
             with open(image_path, 'rb') as f:
@@ -47,7 +47,7 @@ class HMERDataset(Dataset):
         return image, words
 
 
-def get_crohme_dataset(params, use_aug):
+def get_crohme_dataset(params):
     words = Words(params['word_path'])
     params['word_num'] = len(words)
     print(f"训练数据路径 images: {params['train_image_path']} labels: {params['train_label_path']}")
