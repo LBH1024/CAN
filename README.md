@@ -50,7 +50,8 @@ Note that the testing dataset path is set in the ```inference.py```.
 @inproceedings{CAN,
   title={When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition},
   author={Li, Bohan and Yuan, Ye and Liang, Dingkang and Liu, Xiao and Ji, Zhilong and Bai, Jinfeng and Liu, Wenyu and Bai, Xiang},
-  booktitle={ECCV},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={197--214},
   year={2022}
 }
 ```
